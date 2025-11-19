@@ -2,7 +2,7 @@
 
 A professional Flutter-based mobile application for controlling ESP32 based drones via WiFi. Features advanced joystick controls, real-time telemetry, and a comprehensive user interface designed for optimal flight experience.
 
-## 🚁 Features
+## Features
 
 ### Flight Control
 - **Dual Joystick Interface**: Left stick for Thrust/Yaw, Right stick for Roll/Pitch
@@ -36,12 +36,13 @@ A professional Flutter-based mobile application for controlling ESP32 based dron
    git clone [https://github.com/mranonymous00/Flutter-App-for-drone-control-by-Arsalan-.git]
    cd Flutter-App-drone-control-by-Arsalan-
    ```
+   Or just download the zip file of the code
 
 2. **Install dependencies**
    ```bash
    flutter pub get
    ```
-
+   make sure you install the dependencies inside the folder in which the code is  
 3. **Run the app**
    ```bash
    flutter run
@@ -102,3 +103,4 @@ flutter build apk --release
 - Test on multiple devices/platforms
 - Update documentation for new features
 - Ensure safety features remain intact
+
